@@ -10,13 +10,6 @@ This project analyzes a global mental health in tech survey to uncover patterns 
 4. **Dashboard** – Pivot charts and slicers in Excel
 5. **Insight Report** – Final summary as PDF
 
-## 📁 Files Included
-
-- `survey.xlsx` – Cleaned survey dataset
-- `survey_analysis.ipynb` – SQL + EDA notebook
-- `Insight_Report.pdf` – Final report (Step 5)
-- `README.md` – This file
-
 ## 📊 Sample Insights
 
 - Family history strongly affects mental health outcomes.
